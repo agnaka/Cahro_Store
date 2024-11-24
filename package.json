@@ -1,0 +1,16 @@
+{
+  "name": "cahro_store",
+  "version": "1.0.0",
+  "description": "<h1>CAHRO STORE</H1>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
